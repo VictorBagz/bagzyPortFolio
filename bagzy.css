@@ -348,7 +348,10 @@ p {
 	justify-content: center;
 	flex-direction: column;
 	width: 80%;
-	margin: 20px auto;
+	margin-top: 20px;
+	margin-bottom:20px;
+	margin-left:10%;
+	margin-right:10%;
 	overflow: hidden;
 	border-radius: 10px;
 }
